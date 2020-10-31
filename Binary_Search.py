@@ -47,3 +47,6 @@ print(ans)
 ans = Binary_Search_ls(l, 0, len(l)-1, key)  # linear
 
 print(ans)
+
+# TIME COMPLEXITY ==> O(LOG N), BECAUSE WE DIVIDING THE LIST OR ARRAY BY N/2.
+# SPACE COMPLEXITY ==> O(1), BECAUSE WE ARE NOT USING ANY EXTRA SPACE.
